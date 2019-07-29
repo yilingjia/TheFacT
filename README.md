@@ -31,11 +31,11 @@ user_id = 1, item_id = 0, rating = 4, rating for feature 1 = 1, rating for featu
 ### Citation
 If you use this code to produce results for your scientific publication, please refer to our SIGIR 2019 paper:
 ```
-@inproceedings{,
-  title={The FacT: Taming Latent Factor Models for Explainability with Factorization Trees},
-  author={Tao, Yiyi and Jia, Yiling and Wang, Nan and Wang, Hongning},
-  booktitle={The 42nd International ACM SIGIR Conference on Research \& Development in Information Retrieval},
-  year={2019},
-  organization={ACM}
+@inproceedings{tao2019the,
+	title="The FacT: Taming Latent Factor Models for Explainability with Factorization Trees",
+	author="Yiyi {Tao} and Yiling {Jia} and Nan {Wang} and Aobo {Yang} and Hongning {Wang}",
+	booktitle="SIGIR 2019 : 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	year="2019"
 }
+
 ```
